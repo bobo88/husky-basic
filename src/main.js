@@ -3,6 +3,6 @@ import App from "./App.vue";
 
 import "./assets/main.css";
 
-var cccc = 123;
+// var dgag = 123;
 
 createApp(App).mount("#app");
