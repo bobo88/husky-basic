@@ -3,6 +3,7 @@ import App from "./App.vue";
 
 import "./assets/main.css";
 
-// var dgag = 123;
+// var inMainjsNotUsed = 1234;
+console.log("测试 commit msg");
 
 createApp(App).mount("#app");
