@@ -12,7 +12,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "eslint src/**/*.{js,jsx,ts,tsx}"
+      "pre-commit": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
     }
   },
   "devDependencies": {

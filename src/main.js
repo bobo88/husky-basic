@@ -1,8 +1,8 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from "vue";
+import App from "./App.vue";
 
-import './assets/main.css'
+import "./assets/main.css";
 
-var x = 123;
+var x23 = 123;
 
-createApp(App).mount('#app')
+createApp(App).mount("#app");
