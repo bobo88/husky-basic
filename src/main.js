@@ -3,6 +3,6 @@ import App from "./App.vue";
 
 import "./assets/main.css";
 
-var abc = 123;
+var ddd = 123;
 
 createApp(App).mount("#app");
