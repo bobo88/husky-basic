@@ -9,8 +9,8 @@ import TheWelcome from "./components/TheWelcome.vue";
       alt="Vue logo"
       class="logo"
       src="./assets/logo.svg"
-      width="345"
-      height="345"
+      width="220"
+      height="220"
     />
 
     <div class="wrapper">
