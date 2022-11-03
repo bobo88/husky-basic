@@ -10,7 +10,7 @@ import TheWelcome from "./components/TheWelcome.vue";
       class="logo"
       src="./assets/logo.svg"
       width="220"
-      height="220"
+      height="300"
     />
 
     <div class="wrapper">

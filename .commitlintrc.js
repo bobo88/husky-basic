@@ -8,6 +8,7 @@ const types = [
   'ci',       // 修改项目的持续集成流程（Kenkins、Travis等）的提交
   'chore',    // 构建过程或辅助工具的变化
   'docs',     // 文档提交（documents）
+  'feat',     // 新增功能（feature）
   'fix',      // 修复 bug
   'pref',     // 性能、体验相关的提交
   'refactor', // 代码重构
